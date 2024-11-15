@@ -6,7 +6,7 @@ Welcome to our project! Here are the references to the important files:
 
 - Main code: ["Project_Main.ipynb"](./Project_Main.ipynb)
   
-- The images referenced in the report: [Image Folder](./Images)
+- The images referenced in the report: [Images](./Images)
 
 - Gini coefficient visualisations: [Gini Maps](./Gini%20Maps)
   
