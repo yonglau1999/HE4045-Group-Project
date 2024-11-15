@@ -5,6 +5,9 @@
 Welcome to our project! Here are the references to the important files:
 
 - Main code: ["Project_Main.ipynb"](./Project_Main.ipynb)
+  - Section 1: Correlation Analysis
+  - Section 2: Predictive Analysis
+  - Section 3: Visualisation
   
 - The images referenced in the report: [Images](./Images)
 
