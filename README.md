@@ -1,5 +1,12 @@
-## Main code is "Project_Main.ipynb"
 
-## Used data files are named with suffix "_data.csv"
+# Global Inequality: A Correlation and Predictive Analysis
+### HE4045 Group 9 
 
-## Referenced report images are in folder "Images"
+Welcome to our project! Here are the links to the important files:
+
+- [Report referenced Image Folder](./Images)
+
+- Main code is ["Project_Main.ipynb"](./Project_Main.ipynb)
+
+- Used data files are named with suffix "_data.csv"
+
