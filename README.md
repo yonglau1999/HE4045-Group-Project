@@ -4,11 +4,11 @@
 
 Welcome to our project! Here are the references to the important files:
 
-- Main code is ["Project_Main.ipynb"](./Project_Main.ipynb)
+- Main code: ["Project_Main.ipynb"](./Project_Main.ipynb)
   
-- [Report referenced Image Folder](./Images)
+- The images referenced in the report: [Image Folder](./Images)
 
-- [Gini Maps](./Gini%20Maps)
+- Gini coefficient visualisations: [Gini Maps](./Gini%20Maps)
   
-- Used data files are named with suffix "_data.csv"
+- Data Folder: [Data](./Data%20Folder)
 
